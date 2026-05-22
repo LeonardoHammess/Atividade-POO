@@ -1,0 +1,26 @@
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\bin\Debug\netcoreapp3.1\Media do aluno.exe
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\bin\Debug\netcoreapp3.1\Media do aluno.deps.json
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\bin\Debug\netcoreapp3.1\Media do aluno.runtimeconfig.json
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\bin\Debug\netcoreapp3.1\Media do aluno.runtimeconfig.dev.json
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\bin\Debug\netcoreapp3.1\Media do aluno.dll
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\bin\Debug\netcoreapp3.1\Media do aluno.pdb
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.AssemblyInfoInputs.cache
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.AssemblyInfo.cs
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.csproj.CoreCompileInputs.cache
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.dll
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.pdb
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.genruntimeconfig.cache
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\Media do aluno\obj\Debug\netcoreapp3.1\Media do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\bin\Debug\netcoreapp3.1\Media do aluno.exe
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\bin\Debug\netcoreapp3.1\Media do aluno.deps.json
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\bin\Debug\netcoreapp3.1\Media do aluno.runtimeconfig.json
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\bin\Debug\netcoreapp3.1\Media do aluno.runtimeconfig.dev.json
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\bin\Debug\netcoreapp3.1\Media do aluno.dll
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\bin\Debug\netcoreapp3.1\Media do aluno.pdb
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.AssemblyInfoInputs.cache
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.AssemblyInfo.cs
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.csproj.CoreCompileInputs.cache
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.dll
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.pdb
+C:\Users\lenda\OneDrive\Área de Trabalho\aprendendo C#\SistemaEscola\obj\Debug\netcoreapp3.1\Media do aluno.genruntimeconfig.cache
